@@ -4,7 +4,6 @@
 🔭 I’m currently working as a **Cloud Data Engineer** at **Tredence Inc.**, focusing on building **scalable data pipelines** and **automating cloud infrastructure**.  
 👯 I’m looking to collaborate on projects involving **real-time data pipelines**, **infrastructure automation**, and **DevOps tooling**.  
 💬 Ask me about **SQL, PySpark, ETL pipelines, cloud infrastructure**, and **CI/CD automation**.  
-📫 How to reach me: **ramdasvk4@gmail.com**  
 😄 Pronouns: **He/Him**  
 
 ---
